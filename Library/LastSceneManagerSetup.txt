@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scenes/parabolico.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Colision.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/a.unity
+  isLoaded: 1
+  isActive: 0
